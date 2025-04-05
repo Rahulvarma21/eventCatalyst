@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 3
+    },
+    "auditLog": "/Users/rahul/Desktop/event/evently/logs/info/.ad50bc075587d73700c6a200492ed22569c50ce5-audit.json",
+    "files": [
+        {
+            "date": 1743825869812,
+            "name": "/Users/rahul/Desktop/event/evently/logs/info/2025-04-05.info.log",
+            "hash": "0b74e67714ddc194b754a4326184cdf193c524af716afda12f5691508f10779e"
+        }
+    ],
+    "hashType": "sha256"
+}
